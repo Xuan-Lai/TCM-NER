@@ -1,5 +1,5 @@
 # TCM-NER
-The source code of the paper:
+The source code and Dataset of the paper:
 Qing Ye, Xuan Lai, Chunlei Cheng. Named entity recognition for traditional Chinese medicine with lexical enhancement and span method.
 ## Environment Requirement
     torch==1.7.1 
