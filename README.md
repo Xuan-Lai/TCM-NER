@@ -1,2 +1,3 @@
 # TCM-NER
-The repository is an  implementation of the paper: Named entity recognition for traditional Chinese medicine with lexical enhancement and span method
+The source code of the paper:
+Qing Ye, Xuan Lai, Chunlei Cheng. Named entity recognition for traditional Chinese medicine with lexical enhancement and span method.
