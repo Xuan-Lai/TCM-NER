@@ -14,10 +14,10 @@ Qing Ye, Xuan Lai, Chunlei Cheng. Named entity recognition for traditional Chine
 ## explaination of training parameters
 all of the training and hyper parameters are in the file of src/utils/options.py
 * bert_dir='the path of the Pretrained model Chinese-BERT-wwm'
-* task_type='crf / span / mrc'  # three methods for decoding
-* train_epochs  # the epoch of training, default=10
-* train_batch_size  # the batch size of training,default=64 
-* gpu_ids  # gpu ids to use, -1 for cpu, "0,1,..." for multi gpu
+* task_type='crf / span / mrc'    # three methods for decoding
+* train_epochs    # the epoch of training, default=10
+* train_batch_size     # the batch size of training,default=64 
+* gpu_ids     # gpu ids to use, -1 for cpu, "0,1,..." for multi gpu
 ## Acknowledgements
 * The [FLAT model](https://github.com/LeeSureman/Flat-Lattice-Transformer) source code.
 * The paper of FLAT model: Li X, Yan H, Qiu X, Huang X. J. 2020. FLAT: Chinese NER Using Flat-Lattice Transformer. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 6836-6842
