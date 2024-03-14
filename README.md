@@ -12,7 +12,7 @@ Qing Ye, Xuan Lai, Chunlei Cheng. Named entity recognition for traditional Chine
 ## The Pretrained model Chinese-BERT-wwm for embedding layer
 [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
 ## explaination of training parameters
-    all of the training and hyper parameters are in the file of src/utils/options.py
+    all of the training and hyper parameters are in the file of src/options.py
     bert_dir='the path of the Pretrained model Chinese-BERT-wwm'
     task_type='crf / span / mrc'  # three methods for decoding
     train_epochs                  # the epoch of training, default=10
