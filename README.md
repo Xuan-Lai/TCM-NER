@@ -12,6 +12,6 @@ Qing Ye, Xuan Lai, Chunlei Cheng. Named entity recognition for traditional Chine
 ## The Pretrained model Chinese-BERT-wwm for embedding layer
 [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
 ## Acknowledgements
-The [FLAT model](https://github.com/LeeSureman/Flat-Lattice-Transformer) source code.
-        The paper of FLAT model: Li X, Yan H, Qiu X, Huang X. J. 2020. FLAT: Chinese NER Using Flat-Lattice Transformer. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 6836-6842
-The detials about [FastNLP](https://github.com/fastnlp/fastNLP)
+* The [FLAT model](https://github.com/LeeSureman/Flat-Lattice-Transformer) source code.
+* The paper of FLAT model: Li X, Yan H, Qiu X, Huang X. J. 2020. FLAT: Chinese NER Using Flat-Lattice Transformer. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 6836-6842
+* The detials about [FastNLP](https://github.com/fastnlp/fastNLP)
