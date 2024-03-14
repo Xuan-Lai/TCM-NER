@@ -6,6 +6,8 @@ Qing Ye, Xuan Lai, Chunlei Cheng. Named entity recognition for traditional Chine
     numpy==1.19.5 
     transformers==4.26.1 
     FastNLP==0.5.0
-## The pretrained character embeddings and word embeddings
+## The Pretrained character embeddings and word embeddings
 * Character embeddings: [gigaword_chn.all.a2b.uni.ite50.vec](https://drive.google.com/file/d/1_Zlf0OAZKVdydk7loUpkzD2KPEotUE8u/view)
 * Bi-gram embeddings: [gigaword_chn.all.a2b.bi.ite50.vec](https://pan.baidu.com/s/1pLO6T9D#list/path=%2F)
+## The Preyrained model Chinese-BERT-wwm for embedding layer
+[Chinese-BERT-wwm] (https://github.com/ymcui/Chinese-BERT-wwm)
